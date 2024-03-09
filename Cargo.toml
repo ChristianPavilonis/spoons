@@ -2,6 +2,12 @@
 name = "spoons"
 version = "0.1.0"
 edition = "2021"
+authors = ["ChristianPav _@christians.email"]
+description = "I like rusty spoons"
+readme = "README.md"
+homepage = "https://github.com/ChristianPavilonis/spoons"
+repository = "https://github.com/ChristianPavilonis/spoons"
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
